@@ -34,7 +34,7 @@ Despite its advantages, AI raises concerns about:
 
 I don't know if you have it, but I'm using ChatGPT to help me organize, format, and enhance my GitHub page!
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a0d2bbd6-08bc-4ec0-ad5b-d7c7f08ea692)
 
 
 # How Does AI Affect Us?
