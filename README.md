@@ -38,20 +38,3 @@ Welcome to **2025 AI-EMI**! 🎉 This repository is dedicated to developing cutt
 🔹 **AI Automation** - Task automation using AI-powered agents  
 
 This project is continuously evolving, and we welcome **contributions** from AI enthusiasts and experts. 🚀
-
----
-
-## 🛠️ Installation
-To get started, you need Python 3.8+ installed. Follow these steps:
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/2025-AI-EMI.git
-cd 2025-AI-EMI
-
-# Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows use 'venv\Scripts\activate'
-
-# Install dependencies
-pip install -r requirements.txt
