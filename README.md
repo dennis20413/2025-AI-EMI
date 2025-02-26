@@ -55,3 +55,10 @@ source venv/bin/activate  # On Windows use 'venv\Scripts\activate'
 
 # Install dependencies
 pip install -r requirements.txt
+
+# 🚀 Usage
+You can use the AI modules directly through scripts or integrate them into your applications.
+
+## Running a Text Generation Model
+python ai_modules/text_generator.py --input "Hello, AI!"
+
