@@ -41,6 +41,8 @@ I don't know if you have it, but I'm using ChatGPT to help me organize, format, 
 
 Artificial Intelligence (AI) is transforming every aspect of our lives, from daily conveniences to major societal changes. It enhances efficiency, automates tasks, and provides intelligent insights, but it also raises ethical concerns.
 
+![image](https://github.com/user-attachments/assets/d110bff1-4eab-419f-ae3e-e0b47dcd9570)
+
 ## **Positive Impacts of AI**
 1. **Automation & Productivity**  
    - AI automates repetitive tasks, boosting efficiency in industries like manufacturing and logistics.  
@@ -72,6 +74,6 @@ Artificial Intelligence (AI) is transforming every aspect of our lives, from dai
    - AI-powered cyberattacks and deepfakes pose threats.  
    - AI-driven decision-making in critical areas (e.g., finance, law enforcement) needs regulation.
 
-![image](https://github.com/user-attachments/assets/d110bff1-4eab-419f-ae3e-e0b47dcd9570)
+
 
 
