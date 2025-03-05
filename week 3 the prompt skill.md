@@ -21,7 +21,4 @@ Taipei City, the dynamic capital of Taiwan 🇹🇼, seamlessly blends tradition
 | Nightlife         | Xinyi District bars like Fake Sober 🍹 and clubs like Ruff 🎉                   |
 | Urban Development | Evolved from humble beginnings into a bustling global hub 🌆                     |
 
-![image](https://sora.com/g/gen_01jnjkm8thfa28rj0kywxrdw1a)
-![image]([https://github.com/user-attachments/assets/f73de50f-9569-4d70-b11a-971192777f9a](https://sora.com/g/gen_01jnjkm8thfa28rj0kywxrdw1a))
-
 ![image](https://github.com/user-attachments/assets/847de353-97ec-424a-b3d4-bf3d5cda779c)
