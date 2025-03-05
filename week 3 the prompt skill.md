@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/f53512c5-9a25-41cb-8fd6-bdb4f8cba032)
 # ❌ Poor Prompt
 ## Tell me about Taipei city in 100 words.
 
