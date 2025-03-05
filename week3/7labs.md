@@ -17,7 +17,7 @@ Taipei City is a vibrant metropolis in Taiwan, known for its dynamic blend of tr
 
 
 
-# 2.
+# 2. Prompt skill
 ## ❌ Poor Prompt
 ### Tell me about Taipei city in 100 words.
 
