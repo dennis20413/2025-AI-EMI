@@ -38,7 +38,3 @@ Artificial Intelligence can be broadly categorized into **Generative AI** and **
 
 - **Generative AI** excels at creating **novel, creative content** and is especially useful in artistic and creative applications. 🎨✨  
 - **Traditional AI** is designed to **analyze and predict** based on existing data, making it indispensable for applications requiring precision, such as fraud detection and recommendation systems. 📊🤖
-
----
-
-Feel free to copy and paste this markdown text directly into your GitHub `.md` file for an engaging and informative presentation!
