@@ -1,12 +1,14 @@
-# ❌ Poor Prompt "Tell me about Taipei city in 100 words"
+# ❌ Poor Prompt
+## Tell me about Taipei city in 100 words.
 
 Taipei, the vibrant capital of Taiwan, is a bustling metropolis where tradition meets modernity. Nestled among picturesque mountains and urban skyscrapers, the city boasts a rich cultural heritage, delicious cuisine, and a thriving arts scene. Taipei is renowned for its historic temples, scenic parks, and dynamic night markets offering local delicacies. Home to the iconic Taipei 101, the city symbolizes progress and innovation. Its efficient public transportation and welcoming atmosphere enhance urban life, making Taipei a popular destination for both tourists and business travelers seeking a blend of heritage and contemporary urban charm. The city thrives with endless vibrant energy.
 
-# 💡Better Prompt "Tell me about Taipei city in 100 words, including the development history, features, and something special"
+# 💡Better Prompt
+## Tell me about Taipei city in 100 words, including the development history, features, and something special.
 
 Taipei City, the vibrant capital of Taiwan, boasts a rich history of development and transformation. Originally a modest settlement, it evolved into a bustling metropolis through rapid industrialization and modernization. The city uniquely blends traditional heritage with modern architecture, offering serene temples alongside skyscrapers and lively night markets. Cultural festivals, innovative technology hubs, and green urban spaces create an inviting atmosphere for both residents and visitors. Taipei is also renowned for its culinary delights, warm hospitality, and iconic landmarks like Taipei 101, which symbolize its ambitious spirit and dynamic fusion of past and future. A modern marvel of urban innovation.
 
-# 🎯 Best Prompt "Please introduce Taipei City in Taiwan using 100 words in English. You may include its key industries, cultural aspects, urban development history, and current trends (for example, you can mention that young people love to drink in Xinyi District at places like Fake Sober, and that popular nightclubs include Ruff, among others). Feel free to elaborate and take your time thinking about it. If possible, include a table at the end, and insert appropriate emojis throughout the article to enhance understanding.
-"
+# 🎯 Best Prompt 
+## Please introduce Taipei City in Taiwan using 100 words in English. You may include its key industries, cultural aspects, urban development history, and current trends (for example, you can mention that young people love to drink in Xinyi District at places like Fake Sober, and that popular nightclubs include Ruff, among others). Feel free to elaborate and take your time thinking about it. If possible, include a table at the end, and insert appropriate emojis throughout the article to enhance understanding.
 
 Taipei City is a vibrant metropolis in Taiwan, known for its dynamic blend of traditional culture and modern innovation. Originating from a humble settlement, it has evolved into a bustling hub for technology, finance, and creative industries. Rich in history and modern flair, Taipei boasts ancient temples, lively night markets, and futuristic architecture. Today, young people flock to Xinyi District to enjoy trendy bars such as Fake Sober and energetic nightclubs like Ruff, creating an exciting urban nightlife scene. With diverse attractions, delicious cuisine, and warm hospitality, Taipei offers unforgettable experiences for all. Experience the magic of Taipei today, truly.
