@@ -1,9 +1,3 @@
-# 🔟 AI Content Labs with Emojis
-
-以下內容以 **GitHub Markdown** 格式呈現，並加入了表格與表情符號，方便您直接複製使用。
-
----
-
 ## 🗂 Labs Overview
 
 | Lab No. | Topic                                       | Objective                                                |
