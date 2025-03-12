@@ -1,0 +1,182 @@
+## 🗂 Labs Overview
+
+| Lab No. | Lab Name (實驗名稱, 実験名)                                     | Objective (目標, 目的)                                         |
+|:------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
+| **1**  | Prompt Variables (變數化設計, プロンプト変数化)                   | Design flexible AI prompts                                    |
+| **2**  | Automated Template Filling (自動化模版, 自動入力テンプレート)     | Automate text generation                                      |
+| **3**  | Chain of Thought (CoT, 思維鏈)                                    | Guide AI through reasoning steps                              |
+| **4**  | Multi-Step Math (多步數學, 数学的な推論)                           | Break down math problems step by step                         |
+| **5**  | Zero-shot CoT (零樣本 CoT, ゼロショットCoT)                       | Answer without prior training                                 |
+| **6**  | Tree-of-Thoughts (ToT, 思考樹技術)                                | Simulate multiple expert opinions                             |
+| **7**  | Variable Prompt Design (變數化提示詞, 変数化プロンプト)            | Make prompts adaptable                                        |
+| **8**  | Historical Chain of Thought (歷史推理, 歷史的な推論)               | Analyze history step-by-step                                  |
+| **9**  | Financial AI Analysis (財務分析AI, 財務分析のAI)                  | AI-assisted calculations                                      |
+| **10** | Real-Time AI Automation (實時AI應用, AI自動化)                     | AI-powered solutions                                          |
+
+---
+
+# 1. Prompt Variables (🔣)
+
+## Original
+We often need flexible prompts that can accommodate different languages or content placeholders. By designing prompts with variables (like `{Language}` or `{ProductName}`), we can quickly adapt to various scenarios.
+
+## Prompt
+Create a template to generate product descriptions using 3 placeholders in English, Chinese, and Japanese.
+
+## result
+**Template Example**  
+
+Introducing `{ProductName}` — a versatile item that meets all your `{UserNeed}`. Available now in `{Language}` to ensure maximum clarity and impact.
+
+- Use `{Language}`: “English,” “中文,” “日本語”  
+- Use `{ProductName}`: any product name  
+- Use `{UserNeed}`: your target benefit or feature
+
+---
+
+# 2. Automated Template Filling (🖇)
+
+## Original
+Sometimes we have a predefined structure for content, such as marketing copy or articles, where we need to automatically insert certain data—like product names, features, or prices—into specific locations.
+
+## Prompt
+Please use the following template to write a product description for `[Laptop]`. “[Laptop]” is a `[Type]` with `[Feature1]` and `[Feature2]`, offering `[Advantage]`.
+
+## result
+**Filled Description**  
+“PolyTech X1 is a **lightweight laptop** with an **ultra-clear display** and **ultra-fast SSD performance**, offering **top-tier portability and speed** for modern professionals.”
+
+---
+
+# 3. Chain of Thought (CoT, 思維鏈) (🤔)
+
+## Original
+When asked a question like “If I have 10 apples, give 3 away, buy 5 more, and eat 1, how many remain?”, many AI systems can answer directly. However, guiding the AI to reason step by step (Chain of Thought) ensures transparency and accuracy.
+
+## Prompt
+Show your reasoning steps to solve how many apples remain after the described actions.
+
+## result
+1. Start with 10 apples.  
+2. Give away 3 (10 - 3 = 7 apples).  
+3. Buy 5 more (7 + 5 = 12 apples).  
+4. Eat 1 (12 - 1 = 11 apples).  
+5. **Answer**: 11 apples remain.
+
+---
+
+# 4. Multi-Step Math (🧮)
+
+## Original
+A car travels at 60 km/h for 4 hours. We want to break down the calculations step by step to explain how far it goes.
+
+## Prompt
+Explain the total distance traveled if a car goes 60 km/h for 4 hours, step by step.
+
+## result
+1. The speed is 60 kilometers per hour.  
+2. The travel time is 4 hours.  
+3. Distance = Speed × Time = 60 × 4 = 240.  
+4. **Answer**: The car travels 240 kilometers.
+
+---
+
+# 5. Zero-shot CoT (⚡)
+
+## Original
+A student has 20 dollars, buys a pen for 5 dollars, a book for 10 dollars. We want the answer without the model seeing any example solutions first.
+
+## Prompt
+How much money remains after these purchases?
+
+## result
+- Total initial money: \$20  
+- Spent on pen: \$5  
+- Spent on book: \$10  
+- Remaining: \$20 - \$5 - \$10 = \$5
+
+---
+
+# 6. Tree-of-Thoughts (ToT, 思考樹技術) (🌳)
+
+## Original
+By simulating multiple expert “thought branches,” the AI can explore various reasoning paths before selecting the best solution, similar to how a brainstorming session might work.
+
+## Prompt
+“Where is the ball if someone drops it between rooms? Let three AI experts analyze the answer.”
+
+## result
+1. **Expert A**: It lands in the hallway if the rooms share a corridor.  
+2. **Expert B**: It might stop at the threshold if there’s a closed door.  
+3. **Expert C**: If the rooms are connected without barriers, it rests somewhere in the middle.  
+
+**Final**: Combining the insights, the ball likely settles at a point equidistant from each room, depending on barriers.
+
+---
+
+# 7. Variable Prompt Design (🔧)
+
+## Original
+We want to create adaptive prompts that change based on different numeric or contextual variables, such as speed, time, or distance.
+
+## Prompt
+Create a prompt template for computing travel distance based on `[Speed]` and `[Time]`.
+
+## result
+**Adaptive Prompt**  
+
+You are given a speed of `[Speed]` km/h and a travel time of `[Time]` hours. Calculate the total distance traveled, then explain the steps.
+
+- Replace `[Speed]` with the desired velocity value.  
+- Replace `[Time]` with the time in hours.
+
+---
+
+# 8. Historical Chain of Thought (🏛)
+
+## Original
+Understanding history often requires step-by-step reasoning about causes and effects. For instance, explaining the fall of the Roman Empire can involve economic, military, and social factors.
+
+## Prompt
+Explain the fall of the Roman Empire step-by-step.
+
+## result
+1. **Economic Strain**: Heavy taxation and reliance on slave labor weakened the economy.  
+2. **Military Overextension**: The Empire stretched across vast territories, depleting resources.  
+3. **Internal Conflict**: Political corruption and power struggles undermined stability.  
+4. **Barbarian Invasions**: Weakened defenses allowed external tribes to conquer Roman lands.  
+5. **Result**: The combined pressures led to the eventual collapse of central authority.
+
+---
+
+# 9. Financial AI Analysis (💰)
+
+## Original
+A restaurant makes \$100 per seat. It has 50 seats and operates 7 days a week. We want an AI to help calculate weekly revenue.
+
+## Prompt
+Compute the weekly revenue, then show the breakdown.
+
+## result
+1. Revenue per seat per day: \$100  
+2. Number of seats: 50  
+3. Total daily revenue: \$100 × 50 = \$5,000  
+4. Operates 7 days a week: \$5,000 × 7 = \$35,000  
+5. **Answer**: The restaurant’s weekly revenue is \$35,000.
+
+---
+
+# 10. Real-Time AI Automation (⏱)
+
+## Original
+We have a data sheet with various entries (like temperature, humidity, etc.) updated continuously. We want an AI solution that can analyze these updates in real time and summarize key points.
+
+## Prompt
+Automate data extraction and generate a summary for the provided dataset.
+
+## result
+**Automated Summary**  
+- Average Temperature: 22.3°C  
+- Peak Humidity: 85% at 3 PM  
+- System Alerts: 2 (filter replacement needed, high humidity spike)  
+- Recommended Action: Ventilate during midday to stabilize humidity levels.
