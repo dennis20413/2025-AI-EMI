@@ -1,5 +1,17 @@
 # AI-Generated Self-Introductions: Tone, Effectiveness, and Optimization  
 
+## 📌 Professional Self-Introduction  
+
+Hello, my name is **Dennis Chen**, and I am currently a **sophomore at Chung Hua University (CHU)**, enrolled in the **3+2 cooperative Data Science degree program with the University of California, Irvine (UCI)**. I specialize in calculus, leveraging my expertise across multiple disciplines to analyze and interpret complex data effectively.  
+
+I am proficient in **English, Traditional Chinese, and Japanese**, allowing me to navigate diverse cultural and professional environments. With a strong foundation in **data science and business administration**, I am continuously developing my analytical, programming, and problem-solving skills to contribute meaningfully to data-driven decision-making.  
+
+I am eager to apply my knowledge and skills in real-world projects and collaborations, particularly in areas that bridge **data science, business strategy, and technology**. I look forward to connecting with professionals and academics who share a passion for innovation and data-driven insights.  
+
+Thank you for your time—I look forward to engaging in meaningful discussions and collaborations.  
+
+---
+
 ## 📌 Questions  
 
 1️⃣ **How does AI change the tone and structure between formal, casual, and creative styles?**  
@@ -61,8 +73,4 @@ Fine-tuning prompts **improves clarity, engagement, and effectiveness**:
 ❌ *"Write a self-introduction."*  
 ✔️ **"Provide three variations: formal, casual, and creative."**  
 
-By refining prompts, **AI-generated introductions become more precise, engaging, and impactful** for different audiences.  
-
----
-
-📌 **Would you like a tailored version for your LinkedIn or resume? Let me know!**  
+By refining prompts, **AI-generated introductions become more precise, engaging, and impactful** for different audiences. 
