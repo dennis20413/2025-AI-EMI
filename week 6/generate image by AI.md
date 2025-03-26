@@ -31,7 +31,10 @@
 
 ![image](https://github.com/user-attachments/assets/66da1048-033f-4699-a1b3-56dd7b6907d6)
 
-## Prompt edit: ![image](https://github.com/user-attachments/assets/2d54d08b-3cbb-4ff2-85dd-03caa7f48d51)
+## Prompt edit: Generate a picture of three Samoyeds wearing Balenciaga and fighting criminals in the city. The shooting angle is from top to bottom. The buildings in the city must have Taipei 101, the Statue of Liberty, and the Eiffel Tower. 生成一張圖片 內容是3隻薩摩耶全身穿著巴黎世家在城市打擊罪犯 並且拍攝角度是由上往下 城市內的建築需有台北101 自由女神像 巴黎鐵塔
+
+
+![image](https://github.com/user-attachments/assets/2d54d08b-3cbb-4ff2-85dd-03caa7f48d51)
 
 
 # Prompt: General a morning forest scene with sunlight filtering through trees, moist moss, and fallen leaves in Norway
