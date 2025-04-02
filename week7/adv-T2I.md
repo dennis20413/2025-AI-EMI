@@ -90,7 +90,8 @@ Let's see how words become visions! 🌈
 
 ## prompt 5: mix these 5 pics into a 16:9 pic
 
-![image](https://github.com/user-attachments/assets/f955a2aa-5d15-45e3-8305-a5fa6ab74fae)
+![image](https://github.com/user-attachments/assets/1437132a-3c97-4f5b-a8e1-5914827e129f)
+
 
 
 
