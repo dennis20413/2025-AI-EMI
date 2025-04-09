@@ -175,4 +175,5 @@ Immersive marketing provides **deeper connection and storytelling**, but **requi
 - Uses your mood, facial expressions, and biofeedback to adapt suggestions in real time.
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/dfdc7ea7-9a55-4b76-902f-c335a7c5d9a6)
+
