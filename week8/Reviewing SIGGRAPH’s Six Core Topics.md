@@ -17,6 +17,7 @@
 4. **Healthcare**: Anatomical modeling, surgical simulations.
 5. **Entertainment**: Films, games, metaverse environments.
 6. **Data Visualization**: Turning complex data into interactive visuals and dashboards.
+
 ![image](https://github.com/user-attachments/assets/7c6fc7e8-9922-4fda-9b26-77718a47917c)
 
 ---
@@ -32,6 +33,7 @@
 - **Gamified Shopping**: Interactive promotions in AR increase engagement and loyalty.
 
 **🎯 Result:** Higher conversion rates, reduced return rates, and enhanced customer satisfaction.
+
 ![image](https://github.com/user-attachments/assets/7f44dec7-200b-4827-a27b-8024e6e666d7)
 
 ---
@@ -48,6 +50,7 @@
 - Branding agencies use AI to **rapidly prototype campaigns**.
 - Companies launch **AI-generated characters or mascots** for brand storytelling.
 - Streaming platforms design **automated promotional trailers** for target audiences.
+
 ![image](https://github.com/user-attachments/assets/b6a36d2d-addd-42b7-9d3c-5fabef8a68d2)
 
 ---
@@ -70,6 +73,7 @@ An animated 3D character named *LUMI*, powered by a conversational AI, acts as a
 - Human-like interaction builds emotional connection.
 - Data collection allows precision targeting.
 - Boosts time-on-site and user trust in product recommendations.
+
 ![image](https://github.com/user-attachments/assets/93cc9e03-73da-4dc7-ba84-b30ff2a0d87b)
 
 ---
@@ -85,6 +89,7 @@ An animated 3D character named *LUMI*, powered by a conversational AI, acts as a
 - **Product Highlighting**: Hyper-real visuals that exaggerate benefits (e.g., splashy effects for energy drinks).
 - **Fantasy-driven Storytelling**: VFX-driven mini-films featuring a brand’s mascot in a cinematic journey.
 - **Brand Films**: Nike or Apple-style inspirational ads with film-grade visuals.
+
 ![image](https://github.com/user-attachments/assets/656e5b6d-79b3-4d8f-bd50-d20ccf4bdc88)
 
 ---
@@ -103,6 +108,7 @@ An animated 3D character named *LUMI*, powered by a conversational AI, acts as a
 ### ✅ Benefits:
 - Increased immersion = higher user engagement.
 - Facilitates **impulse buying** through better visualization.
+
 ![image](https://github.com/user-attachments/assets/87a0b2bb-fabc-4e9a-be7b-ed450e6c3e81)
 
 ---
@@ -120,6 +126,7 @@ An animated 3D character named *LUMI*, powered by a conversational AI, acts as a
 
 ### 📝 Conclusion:
 Immersive marketing provides **deeper connection and storytelling**, but **requires investment** in both content and distribution platforms.
+
 ![image](https://github.com/user-attachments/assets/defdccfc-6ab2-4918-a26b-ce08fd369a03)
 
 ---
@@ -135,6 +142,7 @@ Immersive marketing provides **deeper connection and storytelling**, but **requi
 - **Accessibility**: Inclusive design widens your audience and builds positive brand sentiment.
 
 **🔍 Result:** Well-designed HCI leads to **increased usability**, **emotional bonding**, and **conversion optimization**.
+
 ![image](https://github.com/user-attachments/assets/54dbd975-74eb-4bea-9e63-327e9d97e685)
 
 ---
@@ -159,6 +167,7 @@ Immersive marketing provides **deeper connection and storytelling**, but **requi
 - Inspire creativity.
 - Showcase cross-disciplinary collaboration.
 - Make technology accessible and fun.
+
 ![image](https://github.com/user-attachments/assets/ac6d9841-e03a-4a8f-abba-0be30b6944ce)
 
 ---
