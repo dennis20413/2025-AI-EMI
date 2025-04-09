@@ -173,4 +173,6 @@ Immersive marketing provides **deeper connection and storytelling**, but **requi
 - Combines generative AI, voice interaction, and emotion detection.
 - Helps you write stories, design visuals, generate music, and even rehearse presentations.
 - Uses your mood, facial expressions, and biofeedback to adapt suggestions in real time.
+
+
 ![Uploading image.png…]()
