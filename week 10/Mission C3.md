@@ -113,3 +113,5 @@ Feeling something savory today?”
 
 > 🔬 Inspired by affective computing, IoT kitchen tech, and intuitive culinary UX design.  
 > 🍽️ Because your fridge shouldn't just be cold — it should be smart.
+
+## More details: https://assets.api.gamma.app/export/pdf/cbufzs5vkkb43s3/d2d94aabce52310287109a6511279199/Smart-Emotion-Aware-AI-Systems-in-Everyday-Life.pdf
