@@ -5,6 +5,7 @@
 
 ## 💡 Concept Overview  
 AERAS is an in-mall AI system embedded in existing security or smart retail cameras to detect and analyze customer emotional reactions when they interact with products. It focuses on identifying **positive intent (purchase or interest)** and **negative emotion signals (disgust, hesitation, disapproval)**. Based on these insights, the system informs **sales optimization** strategies and triggers **targeted product surveys** for items with high negative sentiment — thereby reducing costs, minimizing returns, and improving product-market fit.
+![image](https://github.com/user-attachments/assets/214b6b4c-6ad6-44da-835e-fe12a5d2776c)
 
 ---
 
@@ -48,6 +49,8 @@ All these scenarios are captured, classified, and used to adjust merchandising, 
 | 😐 Confused / Hesitant | Wants more info | Improve labeling, staff assistance |
 | 😠 Disgusted / Rejected | Likely to avoid | Flag for survey and product re-evaluation |
 
+![image](https://github.com/user-attachments/assets/5c9dbae2-c053-4069-b351-cf3c668df839)
+
 ---
 
 ## 🧾 Workflow Diagram  
@@ -74,6 +77,8 @@ for each interaction:
 - 📉 High "rejection rate" product reports  
 - 📋 Survey response summaries per item  
 - 💬 NLP topic clustering from open-ended feedback
+
+![image](https://github.com/user-attachments/assets/2fbda754-2a31-46c1-a30f-acae3fe9df30)
 
 ---
 
