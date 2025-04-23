@@ -1,6 +1,8 @@
 # 🚨 Autonomous Emotion-Responsive Law Enforcement Drone System (AERLED)  
 > A Drone-Based Emotion-AI Policing Framework with Multi-Level Threat Management
 
+![image](https://github.com/user-attachments/assets/c041ac33-f513-4d84-8e13-a182d68dd4c9)
+
 ## 🧠 Concept Overview
 This system introduces an **emotion-responsive drone-based enforcement mechanism**, triggered by **AI-enhanced surveillance cameras** deployed throughout urban areas. When a street-level CCTV camera detects an individual exhibiting signs of extreme anger or aggression, the nearest **Emotion Enforcement Drone (EED)** is automatically dispatched. Upon arrival, the drone continues monitoring emotional and physiological markers. If the threat escalates into physical aggression, the drone executes a tiered enforcement protocol — ranging from **verbal intervention to non-lethal force** including **Tasers, pepper spray, and rubber bullets** — all while communicating with local authorities based on the escalation level.
 
@@ -28,6 +30,11 @@ A semi-autonomous drone fleet patrols urban spaces, augmenting public safety by 
 | 🟠 C-Level (Confirmed Threat) | Signs of physical aggression (muscle tension, motion) | Taser ready + warn + prep non-lethals | Alert nearby officers |
 | 🔴 B-Level (Aggression Escalation) | Taser fails or is evaded | Deploy pepper spray + increase taser voltage | Emergency broadcast to all officers |
 | ⚫ A-Level (Unstoppable Threat) | Multiple failed interventions | Fire rubber bullets, then pepper flood + max taser | Broadcast to SWAT and regional control |
+
+![image](https://github.com/user-attachments/assets/bca5421a-6100-4f55-af4e-35adef3bfdbd)
+
+![image](https://github.com/user-attachments/assets/284cc2ca-31ab-48ee-ba45-59ca64accfab)
+
 
 ---
 
