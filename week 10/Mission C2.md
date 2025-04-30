@@ -102,3 +102,5 @@ for each interaction:
 
 > 🧠 Inspired by affective computing, shopper psychology, and camera-AI integration.  
 > ⚠️ Ensure ethical compliance with local data privacy and AI use regulations.
+
+## More details: https://assets.api.gamma.app/export/pdf/cbufzs5vkkb43s3/d2d94aabce52310287109a6511279199/Smart-Emotion-Aware-AI-Systems-in-Everyday-Life.pdf
