@@ -108,3 +108,5 @@ A semi-autonomous drone fleet patrols urban spaces, augmenting public safety by 
 - **Integrated body-language decoding**: More accurate threat predictions.
 - **Emotion De-escalation NLP**: Verbal AI comfort phrases tailored to stress signals.
 - **Haptic Feedback Gear for Officers**: Remote feel of drone surroundings.
+
+## More details: https://assets.api.gamma.app/export/pdf/cbufzs5vkkb43s3/d2d94aabce52310287109a6511279199/Smart-Emotion-Aware-AI-Systems-in-Everyday-Life.pdf
