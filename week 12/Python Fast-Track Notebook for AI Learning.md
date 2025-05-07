@@ -225,21 +225,8 @@ except ValueError:
 ![image](https://github.com/user-attachments/assets/d766e2ec-5119-4f47-9e49-b1fa63aad59e)
 ----------------------------------------------------------------------------------
 
-# Project 5: Text Analyzer – Vowel Counter + Word Reverser
 
-# 1. Read a sentence from the user
-text = input("Enter a sentence: ")
 
-# 2. Count vowels (both upper- and lowercase)
-vowels = [c for c in text.lower() if c in "aeiou"]
-print("Vowel count:", len(vowels))
-
-# 3. Reverse the order of words
-words = text.split()
-reversed_sentence = " ".join(words[::-1])
-print("Reversed sentence:", reversed_sentence)
-
-----------------------------------------------------------------------------------
 
 text = input("Enter a sentence: ")
 
